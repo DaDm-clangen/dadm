@@ -1,0 +1,20 @@
+[
+    {
+        "event_id": "reveal_condition_flooded_paws0",
+        "strings": [
+            "Everytime m_c stands up too quickly, {PRONOUN/m_c/subject} {VERB/m_c/feel/feels} like {PRONOUN/m_c/poss} heart is going to burst."
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
+    },
+    {
+        "event_id": "reveal_condition_flooded_paws1",
+        "strings": [
+            "m_c can feel {PRONOUN/m_c/poss} blood pool in {PRONOUN/m_c/poss} paws whenever {PRONOUN/m_c/subject} {VERB/m_c/stand/stands} up after resting."
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
+    }
+]
