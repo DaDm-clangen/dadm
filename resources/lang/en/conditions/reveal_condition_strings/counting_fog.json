@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "reveal_condition_counting_fog0",
+        "strings": [
+            "r_c0 notices that m_c always repeats numbers when counting. It seems {PRONOUN/m_c/subject} may have counting fog."
+        ],
+        "involved_cats": {
+            "m_c": {},
+            "r_c0": {
+                "status": [
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id": "reveal_condition_counting_fog1",
+        "strings": [
+            "The medicine cat notices that m_c always repeats numbers when counting. It seems {PRONOUN/m_c/subject} may have counting fog."
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
+    }
+]
