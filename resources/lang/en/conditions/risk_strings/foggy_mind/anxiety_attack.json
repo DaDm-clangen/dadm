@@ -1,6 +1,6 @@
 [
     {
-        "event_id": "weighted_heart_anxiety_attack0",
+        "event_id": "foggy_mind_anxiety_attack0",
         "strings": [
             "m_c tells r_c0 about {PRONOUN/m_c/poss} constant tiredness."
         ],
@@ -14,7 +14,7 @@
         }
     },
     {
-        "event_id": "weighted_heart_anxiety_attack1",
+        "event_id": "foggy_mind_anxiety_attack1",
         "strings": [
             "Even with the best night's sleep, m_c has just felt more and more tired.",
             "Looking up at the den's ceiling, m_c wonders if {PRONOUN/m_c/subject} will ever feel less tired."

@@ -1,6 +1,6 @@
 [
     {
-        "event_id": "weighted_heart_harmful_stims0",
+        "event_id": "foggy_mind_harmful_stims0",
         "strings": [
             "r_c0 catches m_c biting {PRONOUN/m_c/self} repeatedly whenever emotions run high.",
             "m_c admits to r_c0 that the only way {PRONOUN/m_c/subject} can calm down is by hurting {PRONOUN/m_c/self}."
@@ -15,7 +15,7 @@
         }
     },
     {
-        "event_id": "weighted_heart_harmful_stims1",
+        "event_id": "foggy_mind_harmful_stims1",
         "strings": [
             "m_c confesses that {PRONOUN/m_c/subject} {VERB/m_c/keep/keeps} scratching at {PRONOUN/m_c/poss} own fur when overwhelmed.",
             "m_c's stims are different from those of other cats: they leave damage behind."

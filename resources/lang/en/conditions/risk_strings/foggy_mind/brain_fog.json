@@ -1,6 +1,6 @@
 [
     {
-        "event_id": "weighted_heart_brain_fog0",
+        "event_id": "foggy_mind_brain_fog0",
         "strings": [
             "m_c comes into the medicine den looking out of it, telling r_c0 that {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} very tired and keeps losing track of things."
         ],
@@ -14,7 +14,7 @@
         }
     },
     {
-        "event_id": "weighted_heart_brain_fog1",
+        "event_id": "foggy_mind_brain_fog1",
         "strings": [
             "m_c has some brain fog.",
             "{PRONOUN/m_c/poss/CAP} Clanmates have noticed that m_c seems distracted, unable to hold onto {PRONOUN/m_c/poss} thoughts."
