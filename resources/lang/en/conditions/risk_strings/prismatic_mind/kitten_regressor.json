@@ -17,6 +17,9 @@
         "event_id": "prismatic_mind_kitten_regressor1",
         "strings": [
             "m_c, despite being old for a kit, acts younger than {PRONOUN/m_c/subject} {VERB/m_c/are/is}. It's possible that {PRONOUN/m_c/subject} {VERB/m_c/are/is} a kitten regressor."
-        ]
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
     }
 ]

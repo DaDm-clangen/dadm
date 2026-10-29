@@ -19,6 +19,9 @@
             "It seems like m_c can barely stay still as {PRONOUN/m_c/subject} {VERB/m_c/wriggle/wriggles} {PRONOUN/m_c/poss} whole body in excitement for the whole day.",
             "m_c keeps purring to {PRONOUN/m_c/self} as an act of self soothing.",
             "Some of m_c's Clanmates find themselves confused by {PRONOUN/m_c/object} running around the camp in small circles, seemingly chasing {PRONOUN/m_c/poss} tail."
-        ]
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
     }
 ]

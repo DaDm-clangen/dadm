@@ -17,6 +17,9 @@
         "event_id": "prismatic_mind_emotionally_numb1",
         "strings": [
             "m_c has never really known what {PRONOUN/m_c/subject} {VERB/m_c/are/is} feeling."
-        ]
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
     }
 ]

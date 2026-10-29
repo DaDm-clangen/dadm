@@ -17,6 +17,9 @@
         "event_id": "prismatic_mind_counting_fog1",
         "strings": [
             "Being a prismatic mind affects how m_c processes numbers. The medicine cat assures {PRONOUN/m_c/object} that it's okay, {PRONOUN/m_c/subject} just {VERB/m_c/have/has} counting fog."
-        ]
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
     }
 ]

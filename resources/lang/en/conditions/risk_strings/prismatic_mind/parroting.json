@@ -18,6 +18,9 @@
         "strings": [
             "m_c's gotten caught in a loop of repeating {PRONOUN/m_c/poss} Clanmates words or even {PRONOUN/m_c/poss} own.",
             "m_c's become something of an echo around camp, repeating words and sentences much like a colourful parrot."
-        ]
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
     }
 ]

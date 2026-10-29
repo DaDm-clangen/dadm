@@ -17,6 +17,9 @@
         "event_id": "prismatic_mind_puppyspace1",
         "strings": [
             "m_c, despite being too old to play pretend, acts more dog like sometimes. It's possible that {PRONOUN/m_c/subject} {VERB/m_c/are/is} in puppyspace."
-        ]
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
     }
 ]

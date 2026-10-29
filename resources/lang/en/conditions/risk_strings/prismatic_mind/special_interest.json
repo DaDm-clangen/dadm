@@ -26,6 +26,9 @@
             "m_c is practically vibrating out of {PRONOUN/m_c/poss} pelt when {PRONOUN/m_c/subject} {VERB/m_c/talk/talks} to {PRONOUN/m_c/poss} Clanmates about {PRONOUN/m_c/poss} latest interest.",
             "It looks like m_c has rediscovered an old special interest and is eagerly bouncing as {PRONOUN/m_c/subject} {VERB/m_c/talk/talks} about it.",
             "Finding something new to talk about is nice, but for m_c it's something special to return to an old favourite subject."
-        ]
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
     }
 ]

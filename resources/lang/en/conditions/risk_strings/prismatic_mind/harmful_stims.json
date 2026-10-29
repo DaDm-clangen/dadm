@@ -19,6 +19,9 @@
         "strings": [
             "m_c confesses that {PRONOUN/m_c/subject} {VERB/m_c/keep/keeps} scratching at {PRONOUN/m_c/poss} own fur when overwhelmed.",
             "m_c's stims are different from those of other cats: they leave damage behind."
-        ]
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
     }
 ]

@@ -17,6 +17,9 @@
         "event_id": "prismatic_mind_absence1",
         "strings": [
             "Sometimes m_c feels a bit extra fuzzy, and when {PRONOUN/m_c/subject} {VERB/m_c/stare/stares} off into the distance it feels like no time at all has passed, but then {PRONOUN/m_c/subject} {VERB/m_c/blink/blinks} and the whole world has shifted."
-        ]
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
     }
 ]

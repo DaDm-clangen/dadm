@@ -19,6 +19,9 @@
             "The world is too much for m_c, overwhelmingly loud, bright and just everything all at once.",
             "m_c feels frantic, as if {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} drowning in all the overwhelming sensations of the world around {PRONOUN/m_c/object}.",
             "With a distressed yowl, m_c recoils back into the medicine den, shaking {PRONOUN/m_c/poss} head and complaining that the world is just too much."
-        ]
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
     }
 ]

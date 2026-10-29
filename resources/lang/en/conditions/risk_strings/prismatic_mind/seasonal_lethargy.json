@@ -18,6 +18,9 @@
         "strings": [
             "As the seasons' changes become more and more obvious, m_c curls further into {PRONOUN/m_c/poss} nest, trying to pretend things aren't changing so drastically.",
             "m_c is frustrated and upset as the seasons change, clawing at {PRONOUN/m_c/poss} nesting material and hating that a fog is descending on {PRONOUN/m_c/object} that nothing {PRONOUN/m_c/subject} {VERB/m_c/do/does} seems to fix."
-        ]
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
     }
 ]

@@ -23,6 +23,9 @@
             "m_c wants to apologize for {PRONOUN/m_c/poss} behaviour, but all {PRONOUN/m_c/subject} can do is feel things right now.",
             "It's too loud, too bright, to <i>everything</i> for m_c with {PRONOUN/m_c/poss} emotions right now.",
             "A clanmate expresses worry watching m_c destroy {PRONOUN/m_c/poss} own nest, clearly overtaken by some emotion."
-        ]
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
     }
 ]

@@ -18,6 +18,9 @@
         "strings": [
             "m_c often catches {PRONOUN/m_c/self} repeating the same word over and over. The medicine cat suggests it might be parrot chatter.",
             "The medicine cat assures that m_c's frequent repetition of words is common for a prismatic mind."
-        ]
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
     }
 ]

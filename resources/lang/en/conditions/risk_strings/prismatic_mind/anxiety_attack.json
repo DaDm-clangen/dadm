@@ -19,6 +19,9 @@
             "Unable to properly deal with being overwhelmed, m_c has started to nervously pace in place.",
             "m_c's mind has been going around in circles with the same kinds of messy thoughts.",
             "Unable to properly stim after some recent changes, m_c has found {PRONOUN/m_c/self} with {PRONOUN/m_c/poss} fur all puffed up and anxieties circling in {PRONOUN/m_c/poss} head."
-        ]
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
     }
 ]

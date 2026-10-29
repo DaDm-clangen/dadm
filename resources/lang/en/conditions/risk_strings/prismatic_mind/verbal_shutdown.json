@@ -18,6 +18,9 @@
         "strings": [
             "m_c nods {PRONOUN/m_c/poss} head and uses tail signs to talk with {PRONOUN/m_c/poss} Clanmates.",
             "m_c is so glad {PRONOUN/m_c/poss} Clanmates understand that sometimes, {PRONOUN/m_c/subject} just {VERB/m_c/need/needs} the quiet when {PRONOUN/m_c/subject} can't speak."
-        ]
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
     }
 ]

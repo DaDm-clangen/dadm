@@ -18,6 +18,9 @@
         "strings": [
             "m_c is having a tic attack and can't patrol today.",
             "m_c squeaks and shakes {PRONOUN/m_c/poss} head during {PRONOUN/m_c/poss} tic attack."
-        ]
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
     }
 ]

@@ -22,6 +22,9 @@
             "m_c's been slipping into an act around others recently.",
             "While mimicking others is good on occasion, m_c's Clanmates express worry at how much {PRONOUN/m_c/subject} {VERB/m_c/seem/seems} to be doing it recently.",
             "It looks like m_c feels the need to mask more recently."
-        ]
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
     }
 ]

@@ -17,6 +17,9 @@
         "event_id": "prismatic_mind_kittenspace1",
         "strings": [
             "m_c, despite being old for a kit, acts younger than {PRONOUN/m_c/subject} {VERB/m_c/are/is} sometimes. It's possible that {PRONOUN/m_c/subject} {VERB/m_c/are/is} in kittenspace."
-        ]
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
     }
 ]

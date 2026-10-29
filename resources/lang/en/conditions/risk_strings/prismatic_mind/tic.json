@@ -18,6 +18,9 @@
         "strings": [
             "m_c has started ticing.",
             "m_c twitches and tics. {PRONOUN/m_c/poss/CAP} tail tip moves without {PRONOUN/m_c/poss} say-so."
-        ]
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
     }
 ]

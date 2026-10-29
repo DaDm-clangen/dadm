@@ -22,6 +22,9 @@
             "Poor m_c has been stumbling over {PRONOUN/m_c/poss} words a lot more recently.",
             "m_c feels a little bit upset when another cat jokes about {PRONOUN/m_c/poss} double wording sentences.",
             "Because of how rapidly m_c has been speaking some of {PRONOUN/m_c/poss} words have slid into each other."
-        ]
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
     }
 ]
