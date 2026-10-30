@@ -2,7 +2,7 @@
     {
         "event_id": "foggy_mind_anxiety_attack0",
         "strings": [
-            "m_c tells r_c0 about {PRONOUN/m_c/poss} constant tiredness."
+            "In the middle of the night, m_c wakes r_c0 up, tail tucked into {PRONOUN/m_c/poss} side. {PRONOUN/m_c/subject/CAP} just {VERB/m_c/need/needs} to talk about the anxieties chasing {PRONOUN/m_c/object} around in {PRONOUN/m_c/poss} head."
         ],
         "involved_cats": {
             "m_c": {},
@@ -16,8 +16,8 @@
     {
         "event_id": "foggy_mind_anxiety_attack1",
         "strings": [
-            "Even with the best night's sleep, m_c has just felt more and more tired.",
-            "Looking up at the den's ceiling, m_c wonders if {PRONOUN/m_c/subject} will ever feel less tired."
+            "m_c breathes harshly while walking around camp, struggling to fight back against the irrational thoughts and memories in {PRONOUN/m_c/poss} head.",
+            "m_c can't get the thoughts and feelings related to {PRONOUN/m_c/poss} memories out of {PRONOUN/m_c/poss} head this moon."
         ],
         "involved_cats": {
             "m_c": {}
