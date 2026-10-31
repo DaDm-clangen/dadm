@@ -19,8 +19,8 @@
             "m_c stood up too fast and ended up crashing back down to the distress of {PRONOUN/m_c/poss} Clanmates.",
             "m_c fainted trying to power through the day.",
             "m_c thought {PRONOUN/m_c/subject} could ride out the wave of dizziness, only to wake up on the ground.",
-            "m_c assures {PRONOUN/m_c/poss} clanmates that {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} fine. The fainting spell only lasted a few moments.",
-            "m_c was sharing tongues with a clanmate when {PRONOUN/m_c/subject} suddenly collapsed."
+            "m_c assures {PRONOUN/m_c/poss} Clanmates that {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} fine. The fainting spell only lasted a few moments.",
+            "m_c was sharing tongues with a Clanmate when {PRONOUN/m_c/subject} suddenly collapsed."
         ],
         "involved_cats": {
             "m_c": {}

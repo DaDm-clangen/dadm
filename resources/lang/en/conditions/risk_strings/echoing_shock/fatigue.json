@@ -16,7 +16,7 @@
     {
         "event_id": "echoing_shock_fatigue1",
         "strings": [
-            "m_c is tired and needs more rest. {PRONOUN/m_c/inposs/CAP} clanmates understand."
+            "m_c is tired and needs more rest. {PRONOUN/m_c/poss/CAP} Clanmates understand."
         ],
         "involved_cats": {
             "m_c": {}
