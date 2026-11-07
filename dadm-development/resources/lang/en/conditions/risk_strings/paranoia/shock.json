@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "paranoia_shock0",
+        "strings": [
+            "r_c0 is worried about m_c, as {PRONOUN/m_c/subject} {VERB/m_c/seem/seems} to stumble around camp in a daze."
+        ],
+        "involved_cats": {
+            "m_c": {},
+            "r_c0": {
+                "status":[
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"paranoia_shock1",
+        "strings":[
+            "m_c is always watching {PRONOUN/m_c/poss} back and skittering away from other cats. {PRONOUN/m_c/subject/CAP}{VERB/m_c/'re/'s} acting like something horrific just happened, and in {PRONOUN/m_c/poss} mind, it did."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

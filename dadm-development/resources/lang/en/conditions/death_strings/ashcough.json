@@ -1,0 +1,21 @@
+[
+    {
+        "event_id":"ashcough_death0",
+        "strings":[
+            "After inhaling too much smoke, m_c withered day by day until {PRONOUN/m_c/subject} finally died.",
+            "A new star will blaze in the sky tonight. The ashcough had become too much for m_c to survive.",
+            "There was just too much ash in m_c's lungs."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        },
+        "death":[
+            {
+                "cats":[
+                    "m_c"
+                ],
+                "history": "m_c died of ashcough."
+            }
+        ]
+    }
+]

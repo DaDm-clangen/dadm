@@ -1,0 +1,45 @@
+[
+    {
+        "event_id": "ongoing_psychosis_death_medicine_cat",
+        "strings":[
+            "r_c0 knows psychosis can lead to an increase in mortality, but finding m_c dead was unexpected."
+        ],
+        "involved_cats":{
+            "m_c":{},
+            "r_c0":{
+                "status":[
+                    "medicine cat"
+                ]
+            }
+        },
+        "death":[
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "history": [
+                    "m_c died from {PRONOUN/m_c/poss} ongoing psychosis."
+                ]
+            }
+        ]
+    },
+    {
+        "event_id":"ongoing_psychosis_death_alone",
+        "strings": [
+            "The stresses of psychosis were too much for m_c."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        },
+        "death":[
+            {
+                "cats":[
+                    "m_c"
+                ],
+                "history":[
+                    "m_c died from {PRONOUN/m_c/poss} ongoing psychosis."
+                ]
+            }
+        ]
+    }
+]

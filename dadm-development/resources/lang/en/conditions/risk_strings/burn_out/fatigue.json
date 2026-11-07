@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "burn_out_fatigue0",
+        "strings": [
+            "r_c0 has noticed that m_c's been rather fatigued due to {PRONOUN/m_c/poss} burn out."
+        ],
+        "involved_cats": {
+            "m_c": {},
+            "r_c0": {
+                "status": [
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"burn_out_fatigue1",
+        "strings": [
+            "Because of {PRONOUN/m_c/poss} burn out, m_c has been left rather fatigued.",
+			"A clanmate asks m_c how {PRONOUN/m_c/subject} {VERB/m_c/are/is} feeling, noting that {PRONOUN/m_c/subject} {VERB/m_c/seem/seems} rather fatigued recently."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

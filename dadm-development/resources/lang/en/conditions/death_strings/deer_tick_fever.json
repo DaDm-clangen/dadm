@@ -1,0 +1,23 @@
+[
+    {
+        "event_id": "deer_tick_fever_death_alone",
+        "strings": [
+            "m_c died of deer tick fever.",
+            "Deer tick fever has taken m_c's life.",
+            "m_c didn't survive deer tick fever."
+        ],
+        "involved_cats":{
+            "m_c": {}
+        },
+        "death": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "history": [
+                    "m_c couldn't survive deer tick fever."
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "event_id": "panic_attack_hallucinations0",
+        "stings": [
+            "m_c swears that {PRONOUN/m_c/subject} saw something out off the corner of {PRONOUN/m_c/poss} eye, but nothing was there when r_c0 looked."
+        ],
+        "involved_cats": {
+            "m_c": {},
+            "r_c": {}
+        }
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "event_id": "ongoing_psychois_to_depersonalization",
+        "strings": [
+            "m_c's paws feel like they belong to another cat.",
+			"In the depths of psychosis, m_c feels like {PRONOUN/m_c/poss} body isn't {PRONOUN/m_c/poss} own."
+        ],
+        "involved_cats": {
+            "m_c":{}
+        }
+    }
+]

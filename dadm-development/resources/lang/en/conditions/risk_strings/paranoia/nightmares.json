@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "paranoia_nightmares0",
+        "strings": [
+            "r_c0 notices that m_c keeps whimpering in {PRONOUN/m_c/poss} sleep. r_c0 tries to check m_c for injuries, but m_c reveals {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} fine- physically, at least.",
+			"r_c0 wakes up to m_c screaming. {PRONOUN/r_c/subject/CAP} {VERB/r_c/shake/shakes} m_c awake. m_c curls up and refuses to talk about what happened in {PRONOUN/m_c/poss} sleep, but something really rattled {PRONOUN/m_c/object} in {PRONOUN/m_c/poss} sleep."
+        ],
+        "involved_cats": {
+            "m_c": {},
+            "r_c0": {
+                "status":[
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id": "paranoia_nightmares1",
+        "strings": [
+            "m_c wakes up in a cold sweat. Visions of what could be- No. What definitely IS going to happen plague {PRONOUN/m_c/poss} mind."
+        ],
+        "involved_cats":{
+            "m_c": {}
+        }
+    }
+]

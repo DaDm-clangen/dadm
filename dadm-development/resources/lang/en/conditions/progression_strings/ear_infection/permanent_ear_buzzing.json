@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "ear_infection_permanent_ear_buzzing0",
+        "strings": [
+            "Despite r_c0's diligent treatment, m_c has had some last aftereffects of {PRONOUN/m_c/poss} ear infection."
+        ],
+        "involved_cats": {
+            "m_c":{},
+            "r_c0":{
+                "status":[
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"ear_infection_permanent_ear_buzzing1",
+        "strings":[
+            "After {PRONOUN/m_c/poss} ear infection, m_c's hearing will never be the same."
+        ],
+        "involved_cats": {
+            "m_c":{}
+        }
+    }
+]

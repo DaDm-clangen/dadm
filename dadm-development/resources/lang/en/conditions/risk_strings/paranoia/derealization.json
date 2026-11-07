@@ -1,0 +1,12 @@
+[
+    {
+        "event_id":"paranoia_derealization0",
+        "strings":[
+            "All attempts to help m_c's paranoia have made {PRONOUN/m_c/object} more upset and confused.",
+			"m_c's paranoia has escalated and {PRONOUN/m_c/subject} now {VERB/m_c/believe/believes} nothing is real at all."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "ongoing_psychois_to_thunderous_spirit_medicine_cat",
+        "strings": [
+            "r_c0 realizes that m_c's psychotic symptoms aren't a sign of psychosis, but an thunderous spirit instead."
+        ],
+        "involved_cats": {
+            "m_c":{},
+            "r_c0":{
+                "status":[
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"ongoing_psychois_to_thunderous_spirit",
+        "strings":[
+            "m_c's psychotic symptoms wax and wane, but never disappear. It may be a sign of a thunderous spirit.",
+			"Psychotic symptoms aren't a guarantee for cats with a thunderous spirit, but in m_c's case, they seem to be here to stay."
+        ],
+        "involved_cats": {
+            "m_c":{}
+        }
+    }
+]

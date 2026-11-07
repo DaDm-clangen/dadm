@@ -1,0 +1,24 @@
+[
+    {
+        "event_id": "rat_bite_fever_headache0",
+        "strings": [
+			"m_c rolls over in the nest, purposely turning away from where the sun streaks into the den. {PRONOUN/m_c/subject/CAP} can't stand the way it makes {PRONOUN/m_c/object} wince.",
+			"It feels like a kitten has been playing mossball right on top of m_c's head, pounding away while all {PRONOUN/m_c/subject} can do is mope."
+        ],
+        "involved_cats": {
+            "m_c":{}
+        }
+    },
+    {
+        "event_id": "rat_bite_fever_headache1",
+        "strings":[
+            "m_c dully looks at r_c0, while the fever saps {PRONOUN/m_c/poss} strength more {PRONOUN/m_c/poss} head also echoes with a dull throb. Just more issues compounding one another."
+        ],
+        "involved_cats": {
+            "m_c":{},
+            "r_c0": {
+                "status": "medicine cat"
+            }
+        }
+    }
+]

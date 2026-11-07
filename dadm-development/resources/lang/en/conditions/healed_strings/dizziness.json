@@ -1,0 +1,13 @@
+[
+    {
+        "event_id": "dizziness_healed0",
+        "strings": [
+            "m_c's brief bout of dizziness has ended.",
+		    "To m_c's relief, {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} able to raise from {PRONOUN/m_c/poss} nest without falling back down.",
+		    "m_c is no longer feeling dizzied when {PRONOUN/m_c/subject} {VERB/m_c/stand/stands} up."
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
+    }
+]

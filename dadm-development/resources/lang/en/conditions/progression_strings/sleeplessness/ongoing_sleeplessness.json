@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "sleeplessness_ongoing_sleeplessness0",
+        "strings": [
+            "r_c0 sits with m_c long into the night, just letting {PRONOUN/m_c/object} lean against {PRONOUN/r_c0/object} tired and exhausted. m_c just wonders when, if ever sleep will come again."
+        ],
+        "involved_cats": {
+            "m_c": {},
+            "r_c0": {
+                "status": [
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"sleeplessness_ongoing_sleeplessness1",
+        "strings":[
+            "Longer and longer time seems to stretch with m_c been unable to get any sleep.",
+			"m_c's sleeplessness doesn't seem to be leaving {PRONOUN/m_c/object} alone as {PRONOUN/r_c/subject} {VERB/m_c/take/takes} more and more night time patrols just to keep busy."
+        ],
+        "involved_cats": {
+            "m_c":{}
+        }
+    }
+]

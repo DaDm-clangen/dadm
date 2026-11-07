@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "rat_bite_fever_sore0",
+        "strings": [
+            "r_c0 fusses over m_c as {PRONOUN/m_c/subject} {VERB/m_c/loll/lolls} {PRONOUN/m_c/poss} head in the den, too weak from pain and fever to even eat the provided herbs on their own."
+        ],
+        "involved_cats": {
+            "m_c": {},
+            "r_c0": {
+                "status": [
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"rat_bite_fever_sore1",
+        "strings":[
+            "m_c can barely raise {PRONOUN/m_c/self} from the nest to go for herbs, a deep ache dragging {PRONOUN/m_c/object} back down.",
+			"The pain rolls over {PRONOUN/m_c/object}, waves and waves of it making m_c wish that {PRONOUN/m_c/subject} had somehow avoided the rat bite."
+        ],
+        "involved_cats":{
+            "m_c": {}
+        }
+    }
+]

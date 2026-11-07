@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "anaphylaxis_death0",
+        "strings": [
+            "r_c0 did everything {PRONOUN/r_c0/subject} could, but m_c just couldn't survive the anaphylaxis.",
+            "r_c0 prepares m_c's body for burial. There was only so much that could have been done."
+        ],
+        "involved_cats": {
+            "m_c": {},
+            "r_c0": {
+                "status": [
+                    "medicine cat"
+                ]
+            }
+        },
+        "death": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "history": "m_c died from anaphylactic shock."
+            }
+        ]
+    }
+]

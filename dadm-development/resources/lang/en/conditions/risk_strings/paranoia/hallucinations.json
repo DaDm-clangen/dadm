@@ -1,0 +1,12 @@
+[
+    {
+        "event_id": "paranoia_hallucinations0",
+        "strings":[
+            "m_c swears {PRONOUN/m_c/subject} {VERB/m_c/sees/see} shadows moving. They're going to get {PRONOUN/m_c/object}!",
+            "m_c has been having halluciationss due to {PRONOUN/m_c/poss} paranoia."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

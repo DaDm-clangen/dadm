@@ -1,0 +1,13 @@
+[
+    {
+        "event_id": "seasonal_lethargy_murky_mind0",
+        "strings": [
+            "m_c doesn't know what's wrong. One day everything was bright, and beautiful, and now all {PRONOUN/m_c/subject} {VERB/m_c/want/wants} to do is sleep. Oh, Starclan, just give {PRONOUN/m_c/object} a little more time to sleep.",
+            "While the frost comes and goes with the seasons, the frost on m_c's heart seems to have fogged up {PRONOUN/m_c/poss} mind.",
+            "m_c <i>wants</i> to move on with the seasons, but {PRONOUN/m_c/subject} just {VERB/m_c/seem/seems} to <i>can't.</i>"
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
+    }
+]

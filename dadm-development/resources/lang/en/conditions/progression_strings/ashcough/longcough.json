@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "ashcough_longcough0",
+        "strings":[
+            "After the ash finally clears from m_c's lungs, r_c0 talks to {PRONOUN/m_c/object} about the lingering cough that might never leave.",
+            "r_c0 has noticed that while m_c is breathing easier, {PRONOUN/m_c/subject} {VERB/m_c/appear/appears} to have a lingering cough."
+        ],
+        "involved_cats":{
+            "m_c":{},
+            "r_c0":{
+                "status":[
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"ashcough_longcough1",
+        "strings":[
+            "m_c's relief to have a clear chest is offset by the cough that still refuses to leave {PRONOUN/m_c/object} in peace."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "deer_tick_fever_deer_tick_disease_medicine_cat",
+        "strings": [
+            "Despite r_c's diligent treatment, m_c's deer tick fever hasn't quite abated. {PRONOUN/m_c/subject/CAP} actually {VERB/m_c/seem/seems} to be developing new symptoms."
+        ],
+        "involved_cats": {
+            "m_c":{},
+            "r_c":{
+                "status":[
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"deer_tick_fever_deer_tick_disease_alone",
+        "strings":[
+            "Who knew a harmless little tick could cause this? m_c regrets how dismissive of tick bites {PRONOUN/m_c/subject} {VERB/m_c/were/was} before."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

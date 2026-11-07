@@ -1,0 +1,22 @@
+[
+    {
+        "event_id": "panic_attack_tic_attack0",
+        "strings": [
+            "r_c0 tries to soothe m_c when {PRONOUN/m_c/subject} {VERB/m_c/start/starts} having a tic attack."
+        ],
+        "involved_cats": {
+            "m_c": {},
+            "r_c0": {}
+        }
+    },
+    {
+        "event_id": "panic_attack_tic_attack1",
+        "strings": [
+            "m_c's panic has to come out of {PRONOUN/m_c/poss} body somehow and it seems that {PRONOUN/m_c/poss} rapid ticing was it.",
+			"The tic attack that m_c got isn't settling {PRONOUN/m_c/poss} anxiety."
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
+    }
+]

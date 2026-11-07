@@ -1,0 +1,13 @@
+[
+    {
+        "event_id": "hallucinations_hostile_hallucinations",
+        "strings": [
+            "m_c feels like {PRONOUN/m_c/subject}{VERB/m_c/'ve/'s} finally conquered {PRONOUN/m_c/poss} hallucinations when things take a turn for the worse.",
+			"m_c's hallucinations have progressed from minor to severe.",
+			"m_c's hallucinations have progressed from an inconvenience to an active danger."
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "event_id": "psychotic_episode_healed0",
+        "strings": [
+            "m_c's psychotic symptoms have eased, much to {PRONOUN/m_c/poss} relief.",
+		    "m_c purrs with relief upon realzing that {PRONOUN/m_c/subject} {VERB/m_c/feel/feels} safe in {PRONOUN/m_c/poss} clan again."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

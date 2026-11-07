@@ -1,0 +1,12 @@
+[
+    {
+        "event_id": "hallucinations_healed0",
+        "strings": [
+            "m_c is relieved when {PRONOUN/m_c/poss} head clears and {PRONOUN/m_c/subject} {VERB/m_c/are/is} no longer experiencing confusion or distress over what {PRONOUN/m_c/subject} {VERB/m_c/see/sees} and {VERB/m_c/hear/hears}.",
+		    "m_c has stopped hallucinating things."
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
+    }
+]

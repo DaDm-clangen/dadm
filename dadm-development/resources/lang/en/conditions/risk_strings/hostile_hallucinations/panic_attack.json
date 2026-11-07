@@ -1,0 +1,12 @@
+[
+    {
+        "event_id": "hostile_hallucinations_to_panic_attack",
+        "strings": [
+            "m_c bursts into tears after a particularly upsetting hallucination.",
+			"m_c finds it hard to breathe. Why won't these hallucinations stop?"
+        ],
+        "involved_cats": {
+            "m_c":{}
+        }
+    }
+]

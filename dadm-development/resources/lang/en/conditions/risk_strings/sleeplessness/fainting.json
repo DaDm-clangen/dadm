@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "sleeplessness_fainting0",
+        "strings": [
+            "Poor m_c came to r_c0 feeling rather faint due to {PRONOUN/m_c/poss} lack of sleep."
+        ],
+        "involved_cats": {
+            "m_c": {},
+            "r_c0": {
+                "status": [
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"sleeplessness_fainting1",
+        "strings": [
+            "It would seem that m_c's body is at it's absolute limit making {PRONOUN/m_c/object} faint now.",
+			"m_c has had a case of fainting, most likely due to {PRONOUN/m_c/poss} lack of sleep."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "event_id": "nausea_healed0",
+        "strings": [
+            "m_c is thankful to no longer be feeling nauseous",
+		    "m_c isn't nauseous anymore and can return to {PRONOUN/m_c/poss} duties."
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
+    }
+]

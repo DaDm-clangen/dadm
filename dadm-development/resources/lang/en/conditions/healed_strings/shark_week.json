@@ -1,0 +1,12 @@
+[
+    {
+        "event_id": "shark_week_healed0",
+        "strings":[
+            "m_c's shark week has ended.",
+		    "m_c is happy to say that {PRONOUN/m_c/poss} shark week has ended."
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "ongoing_psychosis_to_otherworldly_mind_medicine_cat",
+        "strings": [
+            "r_c0 realizes that m_c's psychotic symptoms aren't a sign of psychosis, but an otherworldly mind instead."
+        ],
+        "involved_cats": {
+            "m_c":{},
+            "r_c0":{
+                "status":[
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"ongoing_psychosis_to_otherworldly_mind",
+        "strings": [
+            "m_c's hallucinations and unsual throught patterns may be a sign of an otherworldly mind."
+        ],
+        "involved_cats":{
+            "m_c":{}   
+        }
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "ashcough_sore_throat0",
+        "strings":[
+            "With all the coughing and wheezing that m_c has been doing, r_c0 isn't surprised to find that {PRONOUN/m_c/subject} now {VERB/m_c/have/has} quite the sore throat."
+        ],
+        "involved_cats":{
+            "m_c":{},
+            "r_c0":{
+                "status":[
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"ashcough_sore_throat1",
+        "strings":[
+            "As if the ash choking m_c out wasn't bad enough, now {PRONOUN/m_c/poss} throat is sore as well."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

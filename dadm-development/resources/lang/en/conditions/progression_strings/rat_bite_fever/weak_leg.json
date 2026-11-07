@@ -1,0 +1,26 @@
+[
+    {
+     "event_id": "rat_bite_fever_weak_leg0",
+     "strings": [
+        "As if m_c's day already wasn't horrible enough. As {PRONOUN/m_c/subject} {VERB/m_c/enter/enters} the medicine den r_c0 has to catch {PRONOUN/m_c/object} when the leg the rat bit gives out."
+     ],
+     "involved_cats":{
+        "m_c":{},
+        "r_c0":{
+            "status": [
+                "medicine cat"
+            ]
+        }
+    }
+    },
+    {
+        "event_id": "rat_bite_fever_weak_leg1",
+        "strings":[
+            "Gingerly m_c attempts to stand up. {PRONOUN/m_c/poss/CAP} leg wobbles and barely seems to want to sustain {PRONOUN/m_c/object}.",
+			"m_c asks a denmate for assistance to the medicine den. {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} not so proud to hide that {PRONOUN/m_c/poss} leg doesn't want to fully support {PRONOUN/m_c/object} anymore."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "event_id": "ear_infection_dizziness0",
+        "strings": [
+            "While in the medicine den for {PRONOUN/m_c/poss} ear infection, r_c has discovered that m_c has become dizzy!",
+			"m_c has become dizzy because of {PRONOUN/m_c/poss} ear infection!",
+			"m_c finds that the world tips and crashes around {PRONOUN/m_c/subject} when {PRONOUN/m_c/subject} {VERB/m_c/try/tries} to stand.",
+			"m_c has gotten dizzy because of {PRONOUN/m_c/poss} ear infection."
+        ],
+        "involved_cats": {
+            "m_c":{}
+        }
+    }
+]

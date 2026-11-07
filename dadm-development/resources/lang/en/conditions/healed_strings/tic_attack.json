@@ -1,0 +1,12 @@
+[
+    {
+        "event_id": "tic_attack_healed0",
+        "strings": [
+            "m_c's tic attack has calmed down.",
+		    "m_c has stopped having a tic attack."
+        ],
+        "involved_cats": {
+            "m_c":{}
+        }
+    }
+]

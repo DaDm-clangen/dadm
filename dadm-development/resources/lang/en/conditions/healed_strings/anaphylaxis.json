@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "anaphylaxis_healed0",
+        "strings": [
+            "Against all odds, m_c survived anaphylactic shock.",
+            "m_c is happy to be able to breathe properly again. That was <i>scary...</i>"
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
+    },
+    {
+        "event_id": "anaphylaxis_healed1",
+        "strings":[
+            "r_c0 is finally afforded a break after m_c's medical emergency."
+        ],
+        "involved_cats":{
+            "m_c":{},
+            "r_c0":{
+                "status":[
+                    "medicine cat"
+                ]
+            }
+        }
+    }
+]

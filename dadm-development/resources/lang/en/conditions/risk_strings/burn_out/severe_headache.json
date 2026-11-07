@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "burn_out_severe_headache0",
+        "strings": [
+            "As soon as m_c tries to leave the nest, {PRONOUN/m_c/subject} {VERB/m_c/are/is} hit with painful rays of sunshine. r_c0 tells {PRONOUN/m_c/object} to rest up in the nest today, and to not push {PRONOUN/m_c/self} so hard."
+        ],
+        "involved_cats": {
+            "m_c":{},
+            "r_c0":{
+                "status":[
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"burn_out_severe_headache1",
+        "strings":[
+            "m_c can't leave the nest due to {PRONOUN/m_c/poss} blinding headache.",
+			"m_c has gotten a headache and {PRONOUN/m_c/subject} {VERB/m_c/aren't/isn't} sure why, even though {PRONOUN/m_c/poss} clanmates could guess."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

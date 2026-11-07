@@ -1,0 +1,27 @@
+[
+    {
+        "event_id": "ashcough_raspy_lungs0",
+        "strings":[
+            "While the worst of m_c's recovery has passed, r_c0 still worries about the damage to {PRONOUN/m_c/poss} lungs.",
+			"To everyone's relief, m_c's breathing has evened out. Still, r_c0 warns {PRONOUN/m_c/object} that {PRONOUN/m_c/poss} lungs just might not be as strong as before."
+        ],
+        "involved_cats":{
+            "m_c":{},
+            "r_c0":{
+                "status":[
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"ashcough_raspy_lungs1",
+        "strings":[
+            "With the ash and smoke free from m_c's pelt and lungs, it's become obvious that it did a lot more than surface damage.",
+			"Due to the effects of ashcough, m_c's lungs have weakened and now a rasp is present in {PRONOUN/m_c/poss} every breath."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

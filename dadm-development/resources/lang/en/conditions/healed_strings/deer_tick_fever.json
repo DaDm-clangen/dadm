@@ -1,0 +1,12 @@
+[
+    {
+        "event_id": "deer_tick_fever_healed",
+        "strings": [
+            "m_c has recovered from deer tick fever.",
+		    "m_c breathes a sigh of relief - {PRONOUN/m_c/poss} deer tick fever has abated."
+        ],
+        "involved_cats": {
+            "m_c":{}
+        }
+    }
+]

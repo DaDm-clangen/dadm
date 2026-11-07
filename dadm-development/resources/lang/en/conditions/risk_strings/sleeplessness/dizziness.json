@@ -1,0 +1,16 @@
+[
+    {
+        "event_id": "sleeplessness_dizziness",
+        "strings": [
+            "From m_c's lack of sleep r_c0 has noticed that {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} struggling to remain upright."
+        ],
+        "involved_cats": {
+            "m_c":{},
+            "r_c0":{
+                "status": [
+                    "medicine cat"
+                ]
+            }
+        }
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "event_id": "deer_tick_fever_to_anaphylaxis_medicine_cat",
+        "strings": [
+            "r_c0 fusses and worries over m_c as {PRONOUN/m_c/subject} {VERB/m_c/struggle/struggles} to breathe through the anaphylaxis choking {PRONOUN/m_c/poss} throat."
+        ],
+        "involved_cats": {
+            "m_c":{},
+            "r_c0":{
+                "status":[
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"deer_tick_fever_to_anaphylaxis_alone",
+        "strings":[
+            "One morning m_c wakes up choking, unable to get any air down {PRONOUN/m_c/poss} throat.",
+			"The illness from the tick has lead to an anaphylactic reaction in m_c.",
+			"Poor m_c struggles to even form the proper cat-sign to request help as {PRONOUN/m_c/poss} throat constricts with an anaphylactic reaction."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

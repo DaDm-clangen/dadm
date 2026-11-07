@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "ashcough_redcough0",
+        "strings":[
+            "As the black ash and smoke fills m_c's lungs, {PRONOUN/m_c/poss} coughs turn red. r_c0 knows that death is likely days away now."
+        ],
+        "involved_cats": {
+            "m_c": {},
+            "r_c0": {
+                "status": [
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id": "ashcough_redcough0",
+        "strings":[
+            "As m_c weakly coughs, rasping on every breath, the red mixing with dark ash tells all."
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
+    }
+]

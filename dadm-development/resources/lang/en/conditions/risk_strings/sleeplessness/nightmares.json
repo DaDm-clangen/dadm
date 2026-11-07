@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "sleeplessness_nightmares0",
+        "strings": [
+            "r_c0 worriedly watches over m_c as in the first bit of sleep {PRONOUN/m_c/subject}{VERB/m_c/'ve/'s} managed to get for a while {PRONOUN/m_c/subject} {VERB/m_c/thrash/thrashes} and whimpers in the grasp of a nightmare."
+        ],
+        "involved_cats": {
+            "m_c": {},
+            "r_c0": {
+                "status": [
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"sleeplessness_nightmares1",
+        "strings": [
+            "Poor m_c's been experiencing nightmares in the few moments that {PRONOUN/m_c/subject} {VERB/m_c/do/does} manage to sleep.",
+			"Due to m_c's exhaustion what little sleep {PRONOUN/m_c/subject}{VERB/m_c/'ve/'s} gotten has been plagued with nightmares."
+        ],
+        "involved_cats": {
+            "m_c":{}
+        }
+    }
+]

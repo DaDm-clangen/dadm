@@ -1,0 +1,27 @@
+[
+    {
+        "event_id": "sleeplessness_hallucinations0",
+        "strings": [
+            "r_c0 gently herds m_c into the medicine den where {PRONOUN/m_c/subject} can have some quiet and slightly less shadows to jump at."
+        ],
+        "involved_cats": {
+            "m_c": {},
+            "r_c0": {
+                "status": [
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"sleeplessness_hallucinations1",
+        "strings":[
+    		"m_c has gotten so tired that {PRONOUN/m_c/subject} {VERB/m_c/are/is} beginning to lose focus on the images and sounds {PRONOUN/m_c/subject} {VERB/m_c/hear/hears}.",
+			"Due to m_c's tiredness from lack of sleep {PRONOUN/m_c/subject} {VERB/m_c/keep/keeps} hearing things.",
+			"m_c walks into a tree because {PRONOUN/m_c/subject} thought there was a squirrel darting into a hole at it's base."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

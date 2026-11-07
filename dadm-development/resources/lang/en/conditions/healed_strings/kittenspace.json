@@ -1,0 +1,12 @@
+[
+    {
+        "event_id": "kittenspace_healed0",
+        "strings": [
+            "After rolling around like a kitten, m_c feels secure enough to resume {PRONOUN/m_c/poss} duties.",
+		    "m_c is no longer in kittenspace and back on duty."
+        ],
+        "involved_cats": {
+            "m_c":{}
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "event_id": "panic_attack_tics0",
+        "strings": [
+            "Heart pounding, and claws sheathing and unsheathing, m_c goes to r_c0 to ask what's going on! Unfortunately for m_c, r_c0 can't help with {PRONOUN/m_c/poss} ticing."
+        ],
+        "involved_cats": {
+            "m_c": {},
+            "r_c0": {}
+        }
+    },
+    {
+        "event_id": "panic_attack_tics1",
+        "strings": [
+            "{PRONOUN/m_c/poss/CAP} anxiety attack has caused m_c to start ticing.",
+			"Adding to m_c's panic, {PRONOUN/m_c/poss} body has started moving without {PRONOUN/m_c/poss} say so."
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
+    }
+]

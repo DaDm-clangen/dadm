@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "ear_infection_ear_buzzing0",
+        "strings": [
+            "When m_c asks about why {PRONOUN/m_c/subject} {VERB/m_c/hear/hears} a ringing, r_c0 says that it might be ear buzzing."
+        ],
+        "involved_cats": {
+            "m_c":{},
+            "r_c0":{
+                "stats": [
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"ear_infection_ear_buzzing1",
+        "strings":[
+            "m_c has had a buzzing like fly in {PRONOUN/m_c/poss} ears ever since {PRONOUN/m_c/subject} have gotten an ear infection.",
+			"m_c's ears have been buzzing lately."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

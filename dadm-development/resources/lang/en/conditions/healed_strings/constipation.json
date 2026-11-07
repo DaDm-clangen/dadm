@@ -1,0 +1,12 @@
+[
+    {
+        "event_id": "constipation_healed0",
+        "strings": [
+            "After longer than m_c would like to admit, {PRONOUN/m_c/poss} constipation has passed.",
+		    "With relief, m_c finds that {PRONOUN/m_c/poss} trips to the dirtplace will once more end in a timely manner."
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
+    }
+]

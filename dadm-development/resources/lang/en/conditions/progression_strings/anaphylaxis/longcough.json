@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "anaphylaxis_longcough0",
+        "strings": [
+            "While the cough that m_c is left with still worries r_c0, it also comes as such a relief."
+        ],
+        "involved_cats": {
+            "m_c": {},
+            "r_c0": {
+                "status": [
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id": "anaphlaxis_longcough1",
+        "strings":[
+            "m_c reassures {PRONOUN/m_c/poss} Clanmates that it's alright, a lingering longcough is nothing to worry about."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

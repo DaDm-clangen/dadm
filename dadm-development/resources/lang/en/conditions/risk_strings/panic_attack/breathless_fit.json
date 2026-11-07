@@ -1,0 +1,22 @@
+[
+    {
+        "event_id": "panic_attack_breathless_fit0",
+        "strings": [
+            "r_c0 encourages m_c to match {PRONOUN/r_c/poss} breathing, ressuring {PRONOUN/m_c/object} it'll all be okay."
+        ],
+        "involved_cats": {
+            "m_c": {},
+            "r_c0": {}
+        }
+    },
+    {
+        "event_id": "panic_attack_breathless_fit1",
+        "strings": [
+            "m_c has entered into a breathless fit from the intensity of {PRONOUN/m_c/poss} panic.",
+			"With fear in {PRONOUN/m_c/poss} eyes, m_c weakly wheezes to a Clanmate about getting the medicine cat, {PRONOUN/m_c/subject} can't breathe."
+		],
+        "involved_cats": {
+            "m_c": {}
+        }
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "sleep_paralysis_constant_nightmares0",
+        "strings": [
+            "When r_c0 notices that m_c looks very tired recently {PRONOUN/r_c0/subject}{VERB/m_c/'re/'s} worry is only made worse when the answer is constant nightmares."
+        ],
+        "involved_cats": {
+            "m_c":{},
+            "r_c0":{
+                "status": [
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"sleep_paralysis_constant_nightmares1",
+        "strings": [
+            "m_c feels cursed, the shadowy creatures that make {PRONOUN/m_c/object} frozen and incapable have found their way into permanent residence in m_c's head."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

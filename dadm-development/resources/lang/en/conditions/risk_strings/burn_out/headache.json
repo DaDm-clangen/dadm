@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "burn_out_headache0",
+        "strings": [
+            "r_c0 says that the cause of m_c's headache is likely from {PRONOUN/m_c/object} pushing {PRONOUN/m_c/self}."
+        ],
+        "involved_cats": {
+            "m_c":{},
+            "r_c0":{
+                "status":[
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"burn_out_headache1",
+        "strings":[
+            "m_c's head hurts. It seems like {PRONOUN/m_c/subject} {VERB/m_c/have/has} been pushing {PRONOUN/m_c/self} too hard.",
+			"m_c has gotten a headache and {PRONOUN/m_c/subject} {VERB/m_c/aren't/isn't} sure why."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

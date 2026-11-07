@@ -1,0 +1,27 @@
+[
+    {
+        "event_id": "seasonal_lethargy_weighted_heart0",
+        "strings": [
+            "Something is wrong, m_c looks up at r_c0, something is wrong and the heavy blanket of tiredness hasn't left yet. r_c0 can only shake {PRONOUN/r_c0/poss} head, it would appear that {PRONOUN/m_c/poss} soul has become weighted down and heavy."
+        ],
+        "involved_cats": {
+            "m_c": {},
+            "r_c0": {
+                "status": [
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"seasonal_lethargy_weighted_heart1",
+        "strings": [
+            "m_c watches camp change, {PRONOUN/m_c/subject} {VERB/m_c/watch/watches} as the dawn rises and just wonder why {PRONOUN/m_c/subject} {VERB/m_c/don't/doesn't} feel any lighter yet.",
+			"Usually with the warmth and the frost m_c finds that the heavy weight of exhaustion has left, but now all {PRONOUN/m_c/subject} {VERB/m_c/feel/feels} like is curling back up again and never leaving the den.",
+			"Something in m_c's chest feels tight, feels numb really. A weight that {PRONOUN/m_c/subject} {VERB/m_c/have/has} to carry around for the rest of {PRONOUN/m_c/poss} life."
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "event_id": "burn_out_anxiety_attack0",
+        "strings": [
+            "m_c has been stressed about every little thing. Unfortunatly, this means that m_c is now having an anxiety attack.",
+            "m_c has gotten an anxiety attack after burning out."
+        ],
+        "involved_cats": {
+            "m_c": {}
+        }
+    }
+]

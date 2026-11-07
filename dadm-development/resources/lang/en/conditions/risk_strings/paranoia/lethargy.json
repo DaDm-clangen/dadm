@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "paranoia_lethargy0",
+        "strings": [
+            "r_c0 is asked to check on m_c after a long period of {PRONOUN/m_c/object} lying in {PRONOUN/m_c/poss} nest."
+        ],
+        "involved_cats": {
+            "m_c": {},
+            "r_c0": {
+                "status": [
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"paranoia_lethargy1",
+        "strings": [
+            "m_c can't find the energy to get out of {PRONOUN/m_c/poss} nest today. Or the next day. Or the next..."
+        ],
+        "involved_cats":{
+            "m_c": {}
+        }
+    }
+]

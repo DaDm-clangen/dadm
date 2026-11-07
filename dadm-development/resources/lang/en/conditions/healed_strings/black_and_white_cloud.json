@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "black_and_white_cloud_healed0",
+        "strings": [
+            "r_c0 has spoken with m_c, and it seems like {PRONOUN/m_c/subject} are able to think clearly again, no longer lashing out at every cat around {PRONOUN/m_c/object}."
+        ],
+        "involved_cats": {
+            "m_c": {},
+            "r_c0": {
+                "status": [
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"black_and_white_cloud_healed1",
+        "strings": [
+            "m_c is able to realize that every cat has flaws, and that no cat is perfect. The black and white cloud over {PRONOUN/m_c/poss} eyes seems to have dispersed.",
+            "m_c no longer feels as if everyone is horrible, able to once more see the gray between the black and the white."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

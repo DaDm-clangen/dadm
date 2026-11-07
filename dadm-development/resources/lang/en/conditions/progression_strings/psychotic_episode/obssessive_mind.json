@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "psychotic_episode_to_obssessive_mind_medicine_cat",
+        "strings": [
+            "m_c's psychotic episode is a sign of a greater problem. r_c0 suggests {PRONOUN/m_c/subject} {VERB/m_c/have/has} an obssessive mind."
+        ],
+        "involved_cats": {
+            "m_c":{},
+            "r_c0":{
+                "status":[
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"psychotic_episode_to_obssessive_mind_alone",
+        "strings":[
+            "m_c's psychotic episode is not just a temporary symptom, but a sign of a longterm condition."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

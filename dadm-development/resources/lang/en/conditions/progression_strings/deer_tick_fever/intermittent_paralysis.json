@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "deer_tick_fever_intermittent_paralysis_medicine_cat",
+        "strings": [
+            "With some level of despair m_c talks to r_c about the tremors and inconsistency of {PRONOUN/m_c/poss} hindlegs ever since the illness started."
+        ],
+        "involved_cats": {
+            "m_c":{},
+            "r_c":{
+                "status":[
+                    "medicine cat"
+                ]
+            }
+        }
+    },
+    {
+        "event_id":"deer_tick_fever_intermittent_paralysis_alone",
+        "strings":[
+            "It would appear that m_c's tick fever has led to the development of intermittent paralysis.",
+			"When m_c notices that {PRONOUN/m_c/subject} can't get up properly from the nest {PRONOUN/m_c/subject} {VERB/m_c/panic/panics}."
+        ],
+        "involved_cats":{
+            "m_c":{}
+        }
+    }
+]

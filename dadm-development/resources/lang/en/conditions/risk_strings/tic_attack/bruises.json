@@ -1,0 +1,13 @@
+[
+    {
+        "event_id": "tic_attack_bruises0",
+        "strings": [
+            "{PRONOUN/m_c/poss/CAP} rump starts to hurt after slamming {PRONOUN/m_c/poss} tail into {PRONOUN/m_c/poss} back.",
+			"During {PRONOUN/m_c/poss} tic attack, m_c realizes that {PRONOUN/m_c/object} {VERB/m_c/have/has} given {PRONOUN/m_c/self} a bruise.",
+			"While uncontrolably stomping on the ground, m_c has bruised {PRONOUN/m_c/poss} paw."
+        ],
+        "involved_cats": {
+            "m_c":{}
+        }
+    }
+]

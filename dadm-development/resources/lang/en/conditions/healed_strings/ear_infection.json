@@ -1,0 +1,12 @@
+[
+    {
+        "event_id": "ear_infection_healed0",
+        "strings": [
+            "Somehow, m_c's ear infection killed {PRONOUN/m_c/object}.",
+            "m_c's ear infection was severe enough to kill {PRONOUN/m_c/object}."
+        ],
+        "involved_cats": {
+            "m_c":{}
+        }
+    }
+]
